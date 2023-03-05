@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hey there 👋
+
+I am Sudhir , an enthusiast aspring Full Stack Dev.
+
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=gargakshit"
+    alt="gargakshit"
+  />
+</p>
+
+- 🏢 I'm currently pursuing 3rd year of B.E CSE at St. Joseph's College of Engineering, OMR (under Anna University)
+- ⚡️ I enjoy learning about new technologies
+- ⚙️ I use daily:  `.py`, `.html`, `.css`, `.ts`, `.yml`, `.js`, `.java`
+- ❤️ Love contributing in **Open Source** 
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/sudhir-s-/)
+- 😄 Pronouns: He/Him
+
+
