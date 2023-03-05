@@ -15,16 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hey there 👋
+## Hey there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+This is the place where I opensource stuff and break things :rofl:
 
 I am Sudhir , an enthusiast aspring Full Stack Dev.
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=gargakshit"
-    alt="gargakshit"
-  />
-</p>
 
 - 🏢 I'm currently pursuing 3rd year of B.E CSE at St. Joseph's College of Engineering, OMR (under Anna University)
 - ⚡️ I enjoy learning about new technologies
@@ -32,5 +27,12 @@ I am Sudhir , an enthusiast aspring Full Stack Dev.
 - ❤️ Love contributing in **Open Source** 
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/sudhir-s-/)
 - 😄 Pronouns: He/Him
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🌱 &nbsp;I’m currently learning React, Node.js
+
+
+
+
+
 
 
