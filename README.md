@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 I am Sudhir , an enthusiast aspring Full Stack Dev.
 
 
-- 🏢 I'm currently pursuing 3rd year of B.E CSE at St. Joseph's College of Engineering, OMR (under Anna University)
+- 🏢 I'm currently pursuing 4th year of B.E CSE at St. Joseph's College of Engineering, OMR (under Anna University)
 - ⚡️ I enjoy learning about new technologies
 - ⚙️ I use daily:  `.py`, `.html`, `.css`, `.ts`, `.yml`, `.js`, `.java`
 - ❤️ Love to contribute in **Open Source** 
